@@ -1,2 +1,2 @@
 # OOPS-lab
-OOPS RECORD
+OOPS Lab
